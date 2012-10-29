@@ -1,0 +1,56 @@
+DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
+
+hy-z Copyright (C) 2013 zyhing.
+-------------------------------
+hy-z is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+-------------------------------
+-------------------------------
+hy-z is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+-------------------------------
+-------------------------------
+You should have received a copy of the GNU Lesser General Public License
+along with hy-z.  If not, see <http://www.gnu.org/licenses/>.
+-------------------------------
+-------------------------------
+hy-z是一个自由软件，您可以自由分发、修改其中的源代码或者重新发布它，
+新的任何修改后的重新发布版必须同样在遵守LGPL3或更后续的版本协议下发布.
+关于LGPL协议的细则请参考COPYING、较宽松公共许可证（LGPL，非官方）.txt文件，
+您可以在hy-z的相关目录中获得LGPL协议的副本，
+如果没有找到，请连接到 http://www.gnu.org/licenses/ 查看。
+-------------------------------
+Author:  zyhing
+Contact: zyhing@gmail.com
+License: GNU Lesser General Public License (LGPL)
+Blog and source code availability: http://hy.thelosttime.com/
+-------------------------------
+LICENSE INFORMATION REGARDING BUNDLED HY-Z SOFTWARE
+
+Licenses for files are:
+
+-------------------------------
+
+GNU LGPL information
+-------
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 3 of the License, or (at your option) any later version.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this library; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+    
+-------
+by zyhing.
